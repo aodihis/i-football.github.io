@@ -1,0 +1,25 @@
+{
+    "name": "iFootball Aplication",
+    "short_name": "iFootball",
+    "description": "Aplikasi Bola Masa Kini",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ddd",
+    "theme_color": "#ddd",
+    "icons": [
+        {
+            "src": "icon-Large.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-Small.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+
+    ],
+    "gcm_sender_id": "564172808917"
+}
+
+
